@@ -1,10 +1,9 @@
-# EjerciciosHTML
-
 # Ejercicio 001
 
 - Copie el archivo `original.html`
 - Renombrelo `index.html`
 - Dentro del archivo habrá un texto con este contenido
+
 ```
 La exploración espacial designa los esfuerzos del ser humano en estudiar el espacio y sus astros desde el punto de vista científico y de su explotación económica. Estos esfuerzos pueden involucrar tanto seres humanos viajando en naves espaciales como satélites con recursos de telemetría o sondas teleguiadas enviadas a otros planetas (orbitando o aterrizando en la superficie de estos cuerpos celestes).
 
@@ -15,6 +14,7 @@ El cielo siempre ha atraído la atención y los sueños del ser humano. Ya en 16
 ```
 
 - Debe modificar `index.html` para que el resultado quede así
+
 ![Screenshot 2022-10-24 at 20 36 11](https://user-images.githubusercontent.com/116591355/197600452-e9c79ea5-381c-4e7d-81ef-ac70af695077.png)
 
 Fuente: https://uniwebsidad.com/libros/xhtml/capitulo-3/marcado-basico-de-texto
